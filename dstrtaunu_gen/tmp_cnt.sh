@@ -1,0 +1,1 @@
+std::cout << (double)h16->GetEntries("(gm_semi!=0&&gm_dd==3)&&(abs(dst1_acc)==211&&abs(dst2_acc)==211)&&(gm_df1hr==101&&gm_df1hn==0&&gm_df1le==0&&gm_df1nu==0)&&(gm_df2hr==101&&gm_df2hn==0&&gm_df2le==0&&gm_df2nu==0)") << std::endl;
